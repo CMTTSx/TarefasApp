@@ -1,4 +1,4 @@
-# TO-DO LSIT
+# TO-DO LIST
 
 
 # 📄 Resumo do Projeto 📄
